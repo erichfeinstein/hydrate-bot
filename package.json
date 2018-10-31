@@ -1,0 +1,11 @@
+{
+  "name": "greeter-bot",
+  "version": "1.0.0",
+  "description": "Remember to drink enough water!",
+  "main": "bot.js",
+  "author": "Eric Feinstein",
+  "dependencies": {
+    "discord.io": "github:woor/discord.io#gateway_v6",
+    "winston": "^3.1.0"
+  }
+}
